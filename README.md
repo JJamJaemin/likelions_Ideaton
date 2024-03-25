@@ -1,5 +1,5 @@
 # likelions_Ideaton
-[멋사_아이디어톤(1팀)-1.pdf](https://github.com/JJamJaemin/likelions_Ideaton/files/14742991/_.1.-1.pdf)
+![멋사_아이디어톤(1팀)-1.pdf](https://github.com/JJamJaemin/likelions_Ideaton/files/14742991/_.1.-1.pdf)
 [멋사_아이디어톤(1팀)-2.pdf](https://github.com/JJamJaemin/likelions_Ideaton/files/14742994/_.1.-2.pdf)
 [멋사_아이디어톤(1팀)-3.pdf](https://github.com/JJamJaemin/likelions_Ideaton/files/14742998/_.1.-3.pdf)
 [멋사_아이디어톤(1팀)-4.pdf](https://github.com/JJamJaemin/likelions_Ideaton/files/14742999/_.1.-4.pdf)
